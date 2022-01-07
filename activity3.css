@@ -1,5 +1,9 @@
 h1 {
     color: white;
+    font-family: 'Roboto';
+    text-align: center;
+    background-color: black;
+    font-size: 40px;
 }
 
 header {
@@ -12,4 +16,33 @@ article {
 
 footer {
     border: solid white;
+}
+
+.signature {
+    padding-top: 20px;
+    /* border: solid 1px blue; */
+    background: corn
+}
+
+.activity3 {
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.activity5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.imgAssignment {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 600px;
+   height: 250px;
+   padding-bottom: 20px;
 }
